@@ -1,7 +1,7 @@
-# <div align="center">✨ Hafiz Abdul Rehman ✨</div>
+# <div align="center">🚀 Hafiz Abdul Rehman 🚀</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=500&lines=Flutter+Developer;Mobile+App+Expert;UI%2FUX+Enthusiast;Clean+Architecture+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&size=30&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=500&lines=Flutter+Developer;Mobile+App+Expert;UI%2FUX+Enthusiast;Clean+Architecture+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="https://github.com/Hafiz-Abdul-Rehman?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hafiz-Abdul-Rehman?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/Hafiz-Abdul-Rehman?label=Followers&style=for-the-badge&color=0969DA" alt="GitHub Badge">
   </a>
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=Hafiz-Abdul-Rehman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Hafiz-Abdul-Rehman&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <div align="center">📱 Flutter Developer Extraordinaire 📱</div>
@@ -34,7 +34,7 @@ I transform ideas into stunning mobile experiences with pixel-perfect precision.
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <div align="center">🛠️ Tech Toolbox</div>
@@ -44,67 +44,67 @@ I transform ideas into stunning mobile experiences with pixel-perfect precision.
     <tr>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>Flutter
+        <br><strong>Flutter</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>Dart
+        <br><strong>Dart</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="70" height="70" style="border-radius:50%" />
-        <br>Firebase
+        <br><strong>Firebase</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>SQLite
+        <br><strong>SQLite</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>Git
+        <br><strong>Git</strong>
       </td>
     </tr>
     <tr>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>GitHub
+        <br><strong>GitHub</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>VS Code
+        <br><strong>VS Code</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>Android Studio
+        <br><strong>Android Studio</strong>
       </td>
       <td align="center" width="100">
         <img src="https://user-images.githubusercontent.com/25181517/192107858-9166028c-2dd3-4435-b13b-abcdeec18ff3.png" width="70" height="70" style="border-radius:50%" />
-        <br>REST API
+        <br><strong>REST API</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>Figma
+        <br><strong>Figma</strong>
       </td>
     </tr>
     <tr>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>Xcode
+        <br><strong>Xcode</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>iOS
+        <br><strong>iOS</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>Material UI
+        <br><strong>Material UI</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>Jira
+        <br><strong>Jira</strong>
       </td>
       <td align="center" width="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="70" height="70" style="border-radius:50%" />
-        <br>Slack
+        <br><strong>Slack</strong>
       </td>
     </tr>
   </table>
@@ -123,7 +123,7 @@ I transform ideas into stunning mobile experiences with pixel-perfect precision.
 </details>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <div align="center">🧠 Flutter Expertise</div>
@@ -188,42 +188,58 @@ void main() {
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <div align="center">📊 GitHub Analytics</div>
 
-<p align="center">
-  <a href="https://github.com/Hafiz-Abdul-Rehman">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hafiz-Abdul-Rehman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Abdul-Rehman&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hafiz-Abdul-Rehman&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <!-- Redesigned GitHub Stats Cards with Gradient Background -->
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hafiz-Abdul-Rehman&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=0,000000,0D1117" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hafiz-Abdul-Rehman&layout=compact&hide_border=true&title_color=00FF00&text_color=FFFFFF&bg_color=0,0D1117,000000" />
+</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <!-- Custom Streak Stats with Neon Effect -->
+  <img src="https://streak-stats.demolab.com?user=Hafiz-Abdul-Rehman&hide_border=true&border_radius=10&background=0D1117&stroke=00FF00&ring=00FF00&fire=FFA500&currStreakNum=FFFFFF&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF" />
+</div>
+
+<!-- Contribution Graph with Custom Theme -->
+<div align="center">
+  <br>
+  <a href="https://github.com/Hafiz-Abdul-Rehman">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Abdul-Rehman&theme=react-dark&hide_border=true&area=true&point=00FF00&line=00FF00&radius=8" width="98%" />
+  </a>
+</div>
+
+<!-- Profile Trophy with Improved Design -->
+<div align="center">
+  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Abdul-Rehman&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="trophy" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <div align="center">🏆 Showcase Projects</div>
 
 <div align="center">
   <a href="https://github.com/Hafiz-Abdul-Rehman/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project1&theme=tokyonight" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project1&theme=radical&border_color=30A3DC&bg_color=0D1117" width="49%" />
   </a>
   <a href="https://github.com/Hafiz-Abdul-Rehman/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project2&theme=tokyonight" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project2&theme=radical&border_color=30A3DC&bg_color=0D1117" width="49%" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Hafiz-Abdul-Rehman/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project3&theme=tokyonight" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project3&theme=radical&border_color=30A3DC&bg_color=0D1117" width="49%" />
   </a>
   <a href="https://github.com/Hafiz-Abdul-Rehman/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project4&theme=tokyonight" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project4&theme=radical&border_color=30A3DC&bg_color=0D1117" width="49%" />
   </a>
 </div>
 
@@ -285,7 +301,7 @@ void main() {
 </details>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## <div align="center">📫 Connect & Collaborate</div>
@@ -313,7 +329,7 @@ void main() {
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <div align="center">
@@ -321,21 +337,7 @@ void main() {
 </div>
 
 <div align="center">
-  
-  ### "Crafting mobile experiences that delight users and exceed expectations"
-  
-</div>
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <a href="https://github.com/Hafiz-Abdul-Rehman">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Hafiz-Abdul-Rehman&theme=react-dark" width="100%">
-  </a>
-</div>
-
-<!-- Profile Trophy -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Abdul-Rehman&theme=tokyonight&row=1&column=7" alt="trophy">
-  </a>
+  <h3 style="font-family: 'Pacifico', cursive; font-size: 28px;">
+    "Crafting mobile experiences that delight users and exceed expectations"
+  </h3>
 </div>
