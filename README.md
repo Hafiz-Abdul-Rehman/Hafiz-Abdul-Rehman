@@ -42,47 +42,69 @@ I transform ideas into stunning mobile experiences with pixel-perfect precision.
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="65" height="65" />
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="70" height="70" style="border-radius:50%" />
         <br>Flutter
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Dart" width="65" height="65" />
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="70" height="70" style="border-radius:50%" />
         <br>Dart
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="70" height="70" style="border-radius:50%" />
         <br>Firebase
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="65" height="65" />
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="70" height="70" style="border-radius:50%" />
         <br>SQLite
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70" height="70" style="border-radius:50%" />
         <br>Git
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="70" height="70" style="border-radius:50%" />
         <br>GitHub
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="70" height="70" style="border-radius:50%" />
         <br>VS Code
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="65" height="65" />
-        <br>Android
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="70" height="70" style="border-radius:50%" />
+        <br>Android Studio
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <td align="center" width="100">
+        <img src="https://user-images.githubusercontent.com/25181517/192107858-9166028c-2dd3-4435-b13b-abcdeec18ff3.png" width="70" height="70" style="border-radius:50%" />
         <br>REST API
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="70" height="70" style="border-radius:50%" />
         <br>Figma
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="70" height="70" style="border-radius:50%" />
+        <br>Xcode
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="70" height="70" style="border-radius:50%" />
+        <br>iOS
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="70" height="70" style="border-radius:50%" />
+        <br>Material UI
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="70" height="70" style="border-radius:50%" />
+        <br>Jira
+      </td>
+      <td align="center" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width="70" height="70" style="border-radius:50%" />
+        <br>Slack
       </td>
     </tr>
   </table>
