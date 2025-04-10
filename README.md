@@ -175,15 +175,15 @@ void main() {
 ## 🏆 Showcase Projects
 
 <div align="center">
-  <a href="https://github.com/Hafiz-Abdul-Rehman/project1">
+  <a href="https://github.com/Hafiz-Abdul-Rehman/todoa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project1&theme=react&border_color=00AEFF&bg_color=0D1117" width="49%" />
   </a>
-  <a href="https://github.com/Hafiz-Abdul-Rehman/project2">
+  <a href="https://github.com/Hafiz-Abdul-Rehman/noor-e-quran">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project2&theme=react&border_color=00AEFF&bg_color=0D1117" width="49%" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/Hafiz-Abdul-Rehman/project3">
+  <a href="https://github.com/Hafiz-Abdul-Rehman/Coffee_App_UI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hafiz-Abdul-Rehman&repo=project3&theme=react&border_color=00AEFF&bg_color=0D1117" width="49%" />
   </a>
   <a href="https://github.com/Hafiz-Abdul-Rehman/project4">
