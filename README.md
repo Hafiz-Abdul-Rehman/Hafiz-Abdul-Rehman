@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=🚀+Flutter+Developer;📱+Mobile+App+Expert;🎨+UI%2FUX+Enthusiast;⚡+Performance+Optimizer;🏗️+Clean+Architecture+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Flutter+Developer;%F0%9F%93%B1+Mobile+App+Expert;%F0%9F%8E%A8+UI%2FUX+Enthusiast;%E2%9A%A1+Performance+Optimizer;%F0%9F%8F%97%EF%B8%8F+Clean+Architecture+Specialist" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views & Social Links -->
@@ -335,5 +335,5 @@ class HafizAbdulRehman extends FlutterDeveloper {
   
   <br>
   
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+something+amazing+together!+💡;Happy+Coding!+😊" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile%21+%F0%9F%9A%80;Let%27s+build+something+amazing+together%21+%F0%9F%92%A1;Happy+Coding%21+%F0%9F%98%8A" alt="Footer Typing SVG" />
 </div>
