@@ -5,7 +5,7 @@
   scripts/readme/render.cjs in the portfolio repo.
 -->
 
-<a href="https://hafizdev.pages.dev">
+<a href="https://hafiz-dev.netlify.dev">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png">
@@ -14,7 +14,7 @@
 </a>
 
 <p align="center">
-  <a href="https://hafizdev.pages.dev"><b>Portfolio</b></a>
+  <a href="https://hafiz-dev.netlify.dev"><b>Portfolio</b></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/hafizargfx/">LinkedIn</a>
   &nbsp;·&nbsp;
