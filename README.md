@@ -1,181 +1,148 @@
-<div align="center">
+<!--
+  Hafiz Abdul Rehman · GitHub profile
+  The images come in pairs (…-dark.png / …-light.png) so the page looks right in both of
+  GitHub's themes. They're rendered from the portfolio's own fonts and colours by
+  scripts/readme/render.cjs in the portfolio repo.
+-->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0D1117,50:0B5CAD,100:38BDF8&text=Hafiz%20Abdul%20Rehman&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<a href="https://hafizdev.pages.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png">
+    <img alt="Hafiz Abdul Rehman. Mobile engineer, Flutter, iOS and Android. I build apps people keep on their phones, from the first sketch to the store. Sahiwal, Pakistan, UTC+5. Open to new projects." src="assets/hero-light.png" width="100%">
+  </picture>
+</a>
 
-</div>
-
-<div align="center">
-
-### I build mobile apps that feel clean, fast, and production-ready.
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Hafiz-Abdul-Rehman?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<p align="center">
+  <a href="https://hafizdev.pages.dev"><b>Portfolio</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/hafizargfx/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/hafiz.dev">Instagram</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:arhafiz0325@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://wa.me/923103534778">WhatsApp</a>
 </p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Flutter+Developer;Clean+Architecture+Practitioner;Firebase+%2B+REST+API+Integration;Maps%2C+Realtime%2C+Notifications%2C+IAP;Building+better+mobile+experiences" />
+I'm a mobile engineer in Sahiwal, Pakistan. For close to three years I've built Flutter apps full time, and **17 of them are live on the App Store and Google Play**.
 
-</div>
+Most apps worth building have a hard part in the middle: payments that have to settle, a ride that has to be tracked live, a backend that has to hold it all together. I've built each of those. I design in Figma before I write code, and I can pick up an app someone else started and carry it forward.
 
----
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.png">
+  <img alt="30+ apps deployed. 17 live on the App Store and Google Play. 3 years building with Flutter, full time." src="assets/stats-light.png" width="100%">
+</picture>
+
+<br><br>
+
+## The hard parts, handled
 
 <table>
-<tr>
-<td width="60%" valign="top">
-
-## 👋 About Me
-
-I'm **Hafiz Abdul Rehman**, a Flutter Developer focused on building real-world mobile applications with clean architecture, scalable state management, API integration, Firebase, realtime features, maps, notifications, and polished UI.
-
-I care about apps that are not just good-looking, but also maintainable, fast, and ready for production.
-
-</td>
-<td width="40%" valign="top">
-
-## ⚡ Current Direction
-
-```txt
-Architecture > Random Widgets
-Systems      > Screens Only
-Clean Code   > Quick Patches
-Performance  > Pretty UI Alone
-Consistency  > Motivation
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🧩 Mobile Engineering Stack
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<h3>Mobile</h3>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-<br><br>
-Flutter · Dart · Firebase
-</td>
-
-<td align="center" width="33%">
-<h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma" />
-<br><br>
-VS Code · Git · Postman · Figma
-</td>
-
-<td align="center" width="33%">
-<h3>Platforms</h3>
-<img src="https://skillicons.dev/icons?i=androidstudio,xcode" />
-<br><br>
-Android · iOS · App Deployment
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top"><b>Real-time that holds</b><br><sub>Socket.IO with acknowledged events and automatic reconnects</sub></td>
+    <td width="50%" valign="top"><b>Payments that settle</b><br><sub>Stripe, and Stripe Connect's embedded onboarding</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Maps that move</b><br><sub>Google Maps and live navigation</sub></td>
+    <td valign="top"><b>A backend to match</b><br><sub>Firebase, Supabase, REST APIs</sub></td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Code I didn't write</b><br><sub>Taking over an unfamiliar codebase and carrying it on</sub></td>
+    <td valign="top"><b>All the way to the store</b><br><sub>Builds, TestFlight, review, and the fixes after launch</sub></td>
+  </tr>
 </table>
 
 <br>
 
-<div align="center">
+## Selected work
 
-### Architecture & App Capabilities
+**[FasoRide](https://hafizdev.pages.dev/work/fasoride)** · *Ride-hailing and delivery, across three apps*<br>
+One app for customers, one for drivers and one for stores. I worked on the parts that have to be right in real time: the map, the live ride and the money.
 
-</div>
-
-<table align="center">
-<tr>
-<td>Clean Architecture</td>
-<td>Repository Pattern</td>
-<td>MVVM</td>
-</tr>
-<tr>
-<td>GetX</td>
-<td>BLoC</td>
-<td>Firebase</td>
-</tr>
-<tr>
-<td>REST APIs</td>
-<td>WebSockets</td>
-<td>Push Notifications</td>
-</tr>
-<tr>
-<td>Google Maps</td>
-<td>Local Storage</td>
-<td>Performance Optimization</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📊 GitHub Activity
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hafiz-Abdul-Rehman&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" />
-
-<img width="48%" src="https://streak-stats.demolab.com?user=Hafiz-Abdul-Rehman&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E" />
-
-<br><br>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Abdul-Rehman&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 What I'm Improving Right Now
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">Mobile System Design</td>
-<td align="center">Offline-first Apps</td>
-<td align="center">Realtime Architecture</td>
-</tr>
-<tr>
-<td align="center">Performance Tuning</td>
-<td align="center">Clean State Management</td>
-<td align="center">Production Debugging</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🤝 Let's Build Something Useful
-
-I’m open to freelance work, collaborations, and serious mobile app discussions.
+**[Kusine](https://hafizdev.pages.dev/work/kusine)** · *Food delivery for restaurants, customers and riders*<br>
+A side for each of the three people in a delivery. I designed the UI and handled the backend integration.
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR_LINK">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://hafizdev.pages.dev/work">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/apps-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/apps-light.png">
+    <img alt="Client apps live on the App Store and Google Play: GPS, Circl, Seaside Business, Seaside, RezoRent, Carchive, Veritas AI, Chance Infinite, Proxix, Human Interest and GLISHE." src="assets/apps-light.png" width="100%">
+  </picture>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<details>
+<summary><b>Store links</b></summary>
+<br>
+
+| App | What it is | Get it |
+| :-- | :-- | :-- |
+| **GPS** | Staff attendance, sign-ins and shift tracking for poker events | [App&nbsp;Store](https://apps.apple.com/us/app/global-poker-staff-gps/id6749879138) · [Google&nbsp;Play](https://play.google.com/store/apps/details?id=com.jeuxdevelopers.gps) |
+| **Circl** | Swipe to connect and chat with professionals nearby | [App&nbsp;Store](https://apps.apple.com/vn/app/the-circl/id6752708925) |
+| **Seaside Business** | Business side of a voucher and leisure property marketplace | [Google&nbsp;Play](https://play.google.com/store/apps/details?id=com.jeuxdevelopers.SeasideBusiness) |
+| **Seaside** | Browse discount vouchers and leisure property listings near you | [Google&nbsp;Play](https://play.google.com/store/apps/details?id=com.jeuxdevelopers.SeasideUser) |
+| **RezoRent** | | [App&nbsp;Store](https://apps.apple.com/us/app/rezorent/id6756568903) · [Google&nbsp;Play](https://play.google.com/store/apps/details?id=com.jeuxdevelopers.rezorent) |
+| **Carchive** | Fleet management for vehicles, drivers and workshops | [App&nbsp;Store](https://apps.apple.com/us/app/carchive/id6505065589) · [Google&nbsp;Play](https://play.google.com/store/apps/details?id=com.carchivedevelopers.carchive) |
+| **Veritas AI** | Scripture-based AI chat for questions, worries and prayers | [App&nbsp;Store](https://apps.apple.com/us/app/veritas-ai/id6686409402) |
+| **Chance Infinite** | Free sweepstakes where tasks earn tickets for cash prizes | [App&nbsp;Store](https://apps.apple.com/us/app/chance-infinite/id6738285609) |
+| **Proxix** | Job platform connecting customers, professionals and administrators | [App&nbsp;Store](https://apps.apple.com/us/app/proxix/id6754624473) · [Google&nbsp;Play](https://play.google.com/store/apps/details?id=com.jeuxdevelopers.proxix_app) |
+| **Human Interest** | City and interest-based communities for people who share passions | [App&nbsp;Store](https://apps.apple.com/us/app/human-interest-app/id6758516908) |
+| **GLISHE** | | [App&nbsp;Store](https://apps.apple.com/us/app/glishe/id6756303768) |
+
+</details>
+
+<br>
+
+## Toolbox
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,figma,androidstudio,swift,kotlin,py,ts,react,gcp,git,postman,sqlite&perline=15&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,figma,androidstudio,swift,kotlin,py,ts,react,gcp,git,postman,sqlite&perline=15&theme=light">
+  <img alt="Flutter, Dart, Firebase, Supabase, Figma, Android Studio, Swift, Kotlin, Python, TypeScript, React, Google Cloud, Git, Postman, SQLite" src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,figma,androidstudio,swift,kotlin,py,ts,react,gcp,git,postman,sqlite&perline=15&theme=light">
+</picture>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:0B5CAD,100:38BDF8&section=footer" width="100%" />
+<table>
+  <tr><td width="190"><b>Mobile</b></td><td>Flutter · Dart · Android · iOS · Platform channels · FCM · Deep links</td></tr>
+  <tr><td width="190"><b>Architecture</b></td><td>MVVM · Clean Architecture · Repository pattern · GetX · BLoC</td></tr>
+  <tr><td width="190"><b>Backend and data</b></td><td>REST APIs · Socket.IO · Firebase · Supabase · SQLite</td></tr>
+  <tr><td width="190"><b>Integrations</b></td><td>Stripe · Stripe Connect · Google Maps · In-app chat · In-app ads</td></tr>
+  <tr><td width="190"><b>Tools</b></td><td>Figma · Xcode · Android Studio · Git · Postman · TestFlight</td></tr>
+</table>
 
-</div>
+<br>
+
+## How a project goes
+
+<table>
+  <tr><td align="center"><sub>01</sub></td><td width="110"><b>Talk</b></td><td>You tell me the idea. We work out who it's for, what it has to do first, and what can wait.</td></tr>
+  <tr><td align="center"><sub>02</sub></td><td width="110"><b>Design</b></td><td>I design the screens in Figma, so you can tap through the app before any code exists.</td></tr>
+  <tr><td align="center"><sub>03</sub></td><td width="110"><b>Build</b></td><td>One Flutter codebase for iOS and Android, with test builds on your phone as it grows.</td></tr>
+  <tr><td align="center"><sub>04</sub></td><td width="110"><b>Launch</b></td><td>I handle the store side: production builds, TestFlight, review and submission.</td></tr>
+  <tr><td align="center"><sub>05</sub></td><td width="110"><b>Stay</b></td><td>I stay on for the fixes that only show up once real people start using it.</td></tr>
+</table>
+
+<br>
+
+> [!TIP]
+> There's a small lime ghost called **Haffy** living in the corner of [my portfolio](https://hafizdev.pages.dev). He answers questions about working with me. He's also extremely sarcastic. Throw him around; he likes it. Mostly.
+
+<br>
+
+<a href="https://hafizdev.pages.dev/#contact">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sign-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/sign-light.png">
+    <img alt="Signed, Hafiz. Got an app in mind? Let's build the one people keep." src="assets/sign-light.png" width="100%">
+  </picture>
+</a>
+
+<p align="center"><sub>BS Computer Science at PMAS-Arid Agriculture University, Sahiwal (2028) · Urdu and English</sub></p>
